@@ -18,3 +18,5 @@ Monitoring Code for Ransomeware
 # The current file time and size in stored in FileData.txt in .csv format
 # If the current time and size of the file and original size and time of the file is matching then it file is Clean
 # And if the current time and size of the file and original size and time of the file is not matching then it file is infected
+![test1](https://user-images.githubusercontent.com/53267660/202780012-6e88c7b5-d141-4595-84c7-64b33f523295.jpg)
+![test2](https://user-images.githubusercontent.com/53267660/202780016-b26ee48e-0b96-454a-b83f-6a0c4afd6414.jpg)
