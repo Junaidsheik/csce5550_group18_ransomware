@@ -164,7 +164,7 @@ print("*****Monitoring Changes for Files and Folders******")
 print("***************************************************")
 
 
-class FileHandler(FileSystemEventHandler):
+class Filecheck(FileSystemEventHandler):
     def on_modified(self, event):
         print(f'event type: {event.event_type} path : {event.src_path}')
 
@@ -176,7 +176,7 @@ class FileHandler(FileSystemEventHandler):
 
 
 if __name__ == "__main__":
-    event_handler = FileHandler()
+    event_handler = Filecheck()
     observer = Observer()
     observer.schedule(event_handler, path='C:\\Users\\Jshei\\Desktop\\monitoring_group18\\test', recursive=False)
     observer.start()
