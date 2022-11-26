@@ -27,6 +27,12 @@ Image with the virus in virus.txt
 Image without the virus in virus.txt
 ![test2](https://user-images.githubusercontent.com/53267660/202780016-b26ee48e-0b96-454a-b83f-6a0c4afd6414.jpg)
 
-# Hashing
-# Step 3 : Also, we are monitoring the CRUD operations of the files/folders in a specific directory.
+# Hashing:
+# Also, we are monitoring the CRUD operations of the files/folders in a specific directory.
+![g1](https://user-images.githubusercontent.com/53267660/204113186-cc9c23c7-e2cd-4941-94ae-956f2c112e13.jpg)
+#
+# Real-Time CPU and Memory Monitoring:
+![g2](https://user-images.githubusercontent.com/53267660/204113225-4aae2981-50e6-465d-a21a-269da4d621be.jpg)
+
+
 
