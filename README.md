@@ -22,9 +22,11 @@ Monitoring Code for Ransomeware
 # file and original size and time of the file is not matching then it file is infected
 #
 Image with the virus in virus.txt
+
 ![test1](https://user-images.githubusercontent.com/53267660/202780012-6e88c7b5-d141-4595-84c7-64b33f523295.jpg)
 #
 Image without the virus in virus.txt
+
 ![test2](https://user-images.githubusercontent.com/53267660/202780016-b26ee48e-0b96-454a-b83f-6a0c4afd6414.jpg)
 
 # Hashing:
@@ -35,4 +37,8 @@ Image without the virus in virus.txt
 ![g2](https://user-images.githubusercontent.com/53267660/204113225-4aae2981-50e6-465d-a21a-269da4d621be.jpg)
 
 
-
+# MISC:
+ consumption.py can be used to monitor the CPU and MEM, where we are storing all the logs in the Monitoring_Results.xlsx
+ ( where we are using openpyxl which stores all the values in the excel sheet format)
+ 
+![g3](https://user-images.githubusercontent.com/53267660/204113514-c5ee0b56-bbcf-4407-93a8-90239a1057fd.jpg)
